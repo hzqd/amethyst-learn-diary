@@ -3,11 +3,11 @@ plugins {
     application
 }
 
-group = "org.github.ikfr.tank-wars"
+group = "org.github.hzqd.ikfr.tank-wars"
 version = "0.0.1"
 
 application {
-    mainClassName = "com.github.ikfr.tank.wars.AppKt"
+    mainClassName = "com.github.hzqd.ikfr.tank.wars.AppKt"
 }
 
 repositories {
@@ -18,6 +18,7 @@ repositories {
 dependencies {
     implementation(kotlin("stdlib-jdk8"))
     implementation("org.frice:engine:1.8.5")
+    implementation("io.arrow-kt:arrow-core:0.10.4")
 }
 
 tasks {

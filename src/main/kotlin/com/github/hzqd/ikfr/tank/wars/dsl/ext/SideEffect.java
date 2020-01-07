@@ -1,4 +1,4 @@
-package com.github.ikfr.tank.wars.dsl.ext;
+package com.github.hzqd.ikfr.tank.wars.dsl.ext;
 
 public interface SideEffect {
     void invoke();

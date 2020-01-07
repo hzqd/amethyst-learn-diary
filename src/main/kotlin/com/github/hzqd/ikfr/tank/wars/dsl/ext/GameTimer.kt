@@ -1,4 +1,4 @@
-package com.github.ikfr.tank.wars.dsl.ext
+package com.github.hzqd.ikfr.tank.wars.dsl.ext
 
 /**
  * 代码写的太糟糕啦。不过我反正会给你封装的好好的，才不会让别人看见我家丰恺写的东西呢。 ——ice1000
