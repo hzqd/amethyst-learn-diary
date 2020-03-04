@@ -1,7 +1,5 @@
 package com.github.hzqd.ikfr.tank.wars
 
-import com.github.ikfr.tank.wars.dsl.game
+import org.frice.launch
 
-fun main() {
-    game {  }
-}
+fun main() = launch(gameStart::class.java)

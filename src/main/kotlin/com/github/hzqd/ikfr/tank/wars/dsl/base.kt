@@ -1,7 +1,6 @@
-package com.github.ikfr.tank.wars.dsl
+package com.github.hzqd.ikfr.tank.wars.dsl
 
 import com.github.hzqd.ikfr.tank.wars.dsl.ext.*
-import com.github.ikfr.tank.wars.dsl.ext.*
 import org.frice.Game
 import org.frice.anim.move.AccelerateMove
 import org.frice.anim.move.AccurateMove
